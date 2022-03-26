@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  I'm a Backend Web Developer, Descktop Developer, and Photographer
+  I'm a Backend Web Developer, Desktop Developer, and Photographer
 </h2> 
 
 I'am Experience using Java and PHP Programming. Interested in taking Leadership Training and learning programming carried out by certain organizations.
